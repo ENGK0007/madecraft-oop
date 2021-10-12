@@ -11,6 +11,6 @@ public class Character {
 	}
 
 	Character bilbo = new Character("Bilbo", "Hobbit");
-	Character legolas = new Character("Legolas", "Elf");
-
+	Character legolas = new Character("Legolas", "Elftest");
+	
 }
